@@ -1,6 +1,6 @@
 Tên các thành viên của nhóm.
-1.
-2.
+1.Trần Văn Kiệt
+2.Phan Văn Toản
 3.Hoàng Văn Quốc Thịnh
-4.Nguyễn Quốc Cường do thịnh ghi
-4.Trần Duy Hưng
+4.Nguyễn Quốc Cường
+5.Trần Duy Hưng
