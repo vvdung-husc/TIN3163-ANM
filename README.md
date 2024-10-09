@@ -9,3 +9,11 @@ Wifi: CNTT-MMT/13572468
 3. Virtual Machine 
   - VMWare WorkStation
     + Kali Linux
+Network trong VMWare - NAT, Bridged, Host-only
+https://www.engisv.info/?p=134
+
+Network:
+Host-only: 
+   + Disabled DHCP
+   + 192.168.56.0/255.255.255.0
+
