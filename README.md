@@ -9,6 +9,7 @@ Wifi: CNTT-MMT/13572468
 3. Virtual Machine 
   - VMWare WorkStation
     + Kali Linux
+
 Network trong VMWare - NAT, Bridged, Host-only
 https://www.engisv.info/?p=134
 
