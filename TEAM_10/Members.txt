@@ -1,4 +1,5 @@
 Tên các thành viên của nhóm.
-1.Nguyễn Công Thành
+1. Nguyễn Công Thành
 2. Hồ Bảo Quốc
+3. Nguyễn Phước Tuấn Kiệt
 ...
