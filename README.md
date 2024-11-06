@@ -27,3 +27,6 @@ Trong đó Host-only có địa chỉ IP: 192.168.56.113/255.255.255.0
 --------------
 Dịch tài liệu:
 http://103.116.107.141/uploads/Hacking%20%26%20Security/
+
+Đề tài tiểu luận:
+https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Topics.pdf
