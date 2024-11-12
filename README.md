@@ -25,14 +25,14 @@ Kali-Linux gồm 2 NIC: 1 kiểu NAT và 1 kiểu Host-only
 Trong đó Host-only có địa chỉ IP: 192.168.56.113/255.255.255.0
 
 --------------
-Dịch tài liệu:
+**Dịch tài liệu:**
 https://github.com/vvdung-husc/TIN3163-ANM/tree/main/_Documents/Hacking%26Security
 
-Một số đề tài tiểu luận:
+**Một số đề tài tiểu luận:**
 https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Topics.pdf
 
 
-ĐĂNG KÝ ĐỀ TÀI + DỊCH TÀI LIỆU (Tạo file Register_Topic.txt)
+## ĐĂNG KÝ ĐỀ TÀI + DỊCH TÀI LIỆU (Tạo file Register_Topic.txt - Tham khảo TEAM_00)
 
 - Các nhóm tự thảo luận và đăng ký đề tài tiểu luận (Có thể tìm đề tài ngoài gợi ý của giáo viên). 
 Tìm các tài liệu liên quan đến đề tài và đưa vào thư mục của nhóm (đẩy lên github)
