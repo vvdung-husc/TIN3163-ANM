@@ -32,7 +32,7 @@ https://github.com/vvdung-husc/TIN3163-ANM/tree/main/_Documents/Hacking%26Securi
 https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Topics.pdf
 
 
-## ĐĂNG KÝ ĐỀ TÀI + DỊCH TÀI LIỆU (Tạo file Register_Topic.txt - Tham khảo TEAM_00)
+### ĐĂNG KÝ ĐỀ TÀI + DỊCH TÀI LIỆU (Tạo file Register_Topic.txt - Tham khảo TEAM_00)
 
 - Các nhóm tự thảo luận và đăng ký đề tài tiểu luận (Có thể tìm đề tài ngoài gợi ý của giáo viên). 
 Tìm các tài liệu liên quan đến đề tài và đưa vào thư mục của nhóm (đẩy lên github)
