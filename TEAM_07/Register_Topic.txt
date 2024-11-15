@@ -1,2 +1,2 @@
 Đề tài tiểu luận: Tìm hiểu và triển khai IPSrc VPN với phần mềm giả lập GNS3
-Dịch tài liệu:
+Dịch tài liệu:https://docs.google.com/document/d/1WO02Jr3sDj_M9bWK9k85FIjAsZt94sTnoeUK7zijYdE/edit?tab=t.0
