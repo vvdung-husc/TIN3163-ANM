@@ -1,2 +1,0 @@
-Tên đề tài: 
-Dịch tài liệu: _Documents/Hacking&Security/35. Python for Kids.pdf
