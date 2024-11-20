@@ -1,0 +1,2 @@
+Đề tài tiểu luận: Xây dựng ứng dụng sử dụng chữ ký số xác thực văn bản điện tử.
+Dịch tài liệu: https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/99.%20Botnets%20-%20The%20Killer%20Web%20App.pdf

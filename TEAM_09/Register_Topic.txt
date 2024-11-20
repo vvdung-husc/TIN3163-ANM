@@ -1,0 +1,2 @@
+Đề tài tiểu luận: Tìm hiểu về hệ thống tường lửa (Firewall) va triển khai thử nghiệm.
+Dịch tài liệu: https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/20.%20Hacking%20for%20Dummies.pdf
