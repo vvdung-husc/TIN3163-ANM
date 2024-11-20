@@ -1,2 +1,3 @@
 Đề tài tiểu luận: 
 Dịch tài liệu: https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/35.%20Python%20for%20Kids.pdf
+               https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/51.%20Firewalls%20and%20Internet%20Security.pdf
