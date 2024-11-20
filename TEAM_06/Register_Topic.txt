@@ -1,2 +1,0 @@
-Đề tài tiểu luận: Xây dựng ứng dụng sử dụng chữ ký số xác thực văn bản điện tử.
-Dịch tài liệu: https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/35.%20Python%20for%20Kids.pdf
