@@ -1,2 +1,2 @@
 Đề tài tiểu luận: Xây dựng Website thử nghiệm khai thác lỗ hồng Web và cách thức phòng chống
-Dịch tài liệu: https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/09.%20Python%20Web%20Penetration%20Testing%20Cookbook.pdf
+Dịch tài liệu: https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/35.%20Python%20for%20Kids.pdf
