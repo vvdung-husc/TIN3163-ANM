@@ -1,2 +1,3 @@
 Đề tài tiểu luận: Tìm hiểu về hệ thống tường lửa(firewall) và triển khai thử nghiệm.
 Dịch tài liệu:https://github.com/vvdung-husc/TIN3163-ANM/blob/main/_Documents/Hacking%26Security/01.%20Advanced%20Penetration%20Testing.pdf
+Tài liệu tham khảo đề tài tiểu luận: https://luanvan.net.vn/luan-van/an-ninh-mang-tim-hieu-ve-tuong-lua-46575/ 
